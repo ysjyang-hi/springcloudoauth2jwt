@@ -1,0 +1,28 @@
+
+]	java:S125:"<This block of commented-out lines of code should be removed.(Ü©Ñıÿÿÿÿ8¢Ìù…á/
+]	java:S125^"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8¢Ìù…á/
+]	java:S125J"<This block of commented-out lines of code should be removed.(Æ´©ùÿÿÿÿ8¢Ìù…á/
+]	java:S1252"<This block of commented-out lines of code should be removed.(·ÑÃÎúÿÿÿÿ8¢Ìù…á/
+X	java:S1256"<This block of commented-out lines of code should be removed.(Úëöø8¢Ìù…á/
+]	java:S1258"<This block of commented-out lines of code should be removed.(Ä¬ûÑÿÿÿÿÿ8¢Ìù…á/
+l	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜèË$8®¾éõà/
+<
+java:S1481#"&Remove this unused "a" local variable.(€ôá
+X	java:S125A"<This block of commented-out lines of code should be removed.(üÆüç8¢Ìù…á/
+]	java:S125m"<This block of commented-out lines of code should be removed.(«øø«ÿÿÿÿÿ8Ó¼å†á/
+X	java:S125E"<This block of commented-out lines of code should be removed.(ı»Şà8¢Ìù…á/
+b
+java:S3252+"EUse static access with "com.alibaba.fastjson.JSON" for "parseObject".(ÓİÂç8Ùøçõà/
+]	java:S125j"<This block of commented-out lines of code should be removed.(¹Ã»¡ùÿÿÿÿ8Œü²†á/
+X	java:S125C"<This block of commented-out lines of code should be removed.(Şªäô8¢Ìù…á/
+X	java:S125""<This block of commented-out lines of code should be removed.(‚Šêü8»Å¬ôà/
+u
+java:S1128"SRemove this unused import 'org.springframework.security.jwt.crypto.sign.MacSigner'.(Š¸•üÿÿÿÿ8òÍÛ‡á/
+
+java:S1128"mRemove this unused import 'org.springframework.security.oauth2.provider.token.store.JwtAccessTokenConverter'.(ÒçÂêúÿÿÿÿ8òÍÛ‡á/
+X	java:S125T"<This block of commented-out lines of code should be removed.(ØÅşÇ8¢Ìù…á/
+X	java:S1250"<This block of commented-out lines of code should be removed.(ˆë¹ğ8¢Ìù…á/
+d
+java:S1854l"BRemove this useless assignment to local variable "tempContextUrl".(œÁ“Îûÿÿÿÿ8¢ˆÙ†á/
+]	java:S125?"<This block of commented-out lines of code should be removed.(ÊÜéÙıÿÿÿÿ8¢Ìù…á/
+]	java:S125="<This block of commented-out lines of code should be removed.(«Îë»üÿÿÿÿ8¢Ìù…á/

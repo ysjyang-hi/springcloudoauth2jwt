@@ -1,0 +1,41 @@
+
+l	java:S117D"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜèË$8Â³şà/
+X	java:S125\"<This block of commented-out lines of code should be removed.(Úëöø8øËˆá/
+]	java:S125X"<This block of commented-out lines of code should be removed.(·ÑÃÎúÿÿÿÿ8øËˆá/
+S
+java:S1128"6Remove this unused import 'com.auth0.jwt.JWTVerifier'.(ã¯¶ã8¦¶Æ‰á/
+X	java:S125-"<This block of commented-out lines of code should be removed.(‚ŸœÇ8à­ÿà/
+]	java:S125e"<This block of commented-out lines of code should be removed.(ÊÜéÙıÿÿÿÿ8øËˆá/
+^
+java:S1128"ARemove this unused import 'java.io.UnsupportedEncodingException'.(Ãµ…“8øÆ‰á/
+E	java:S108L")Either remove or fill this block of code.(¢§¡¤8³Ò¢‰á/
+X	java:S125g"<This block of commented-out lines of code should be removed.(üÆüç8øËˆá/
+X	java:S1251"<This block of commented-out lines of code should be removed.(ÜÇß˜8à­ÿà/
+š
+java:S1128"xRemove this unused import 'org.springframework.security.web.authentication.preauth.PreAuthenticatedAuthenticationToken'.(ÿ¡‰ùÿÿÿÿ8«ë£ˆá/
+b
+java:S3252,"EUse static access with "com.alibaba.fastjson.JSON" for "parseObject".(ÓİÂç8Â³şà/
+€
+java:S1128"^Remove this unused import 'org.springframework.security.authentication.AuthenticationManager'.(ğş–şÿÿÿÿ8«ë£ˆá/
+H
+java:S1481J"+Remove this unused "header" local variable.(¾ŞØ“8å‘«‰á/
+]	java:S125?"<This block of commented-out lines of code should be removed.(¢¡ßÿÿÿÿÿ8‘‚“ÿà/
+]	java:S125`"<This block of commented-out lines of code should be removed.(Ü©Ñıÿÿÿÿ8øËˆá/
+Y	java:S125…"<This block of commented-out lines of code should be removed.(œ˜Í€8øËˆá/
+X	java:S125z"<This block of commented-out lines of code should be removed.(ØÅşÇ8øËˆá/
+]	java:S125^"<This block of commented-out lines of code should be removed.(Ä¬ûÑÿÿÿÿÿ8øËˆá/
+]	java:S125S"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8øËˆá/
+]	java:S125p"<This block of commented-out lines of code should be removed.(Æ´©ùÿÿÿÿ8øËˆá/
+]
+java:S1854'";Remove this useless assignment to local variable "request".(¨åİÇúÿÿÿÿ8Â³şà/
+N
+java:S1481'",Remove this unused "request" local variable.(¨åİÇúÿÿÿÿ8Â³şà/
+\
+java:S1128	"?Remove this unused import 'com.auth0.jwt.algorithms.Algorithm'.(ÒãšÂ8¦¶Æ‰á/
+X	java:S125k"<This block of commented-out lines of code should be removed.(ı»Şà8øËˆá/
+W
+java:S1854J":Remove this useless assignment to local variable "header".(¾ŞØ“8ç½ª‰á/
+]	java:S125c"<This block of commented-out lines of code should be removed.(«Îë»üÿÿÿÿ8øËˆá/
+j
+java:S1128"MRemove this unused import 'org.springframework.security.core.Authentication'.(ñıÓ“8«ë£ˆá/
+X	java:S125i"<This block of commented-out lines of code should be removed.(Şªäô8øËˆá/

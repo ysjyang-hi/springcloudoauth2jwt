@@ -1,0 +1,1 @@
+java -jar D:\javaworkspace\springcloudoauth2jwt\out\artifacts\resource_jar\resource.jar

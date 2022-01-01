@@ -1,0 +1,7 @@
+
+М
+java:S1128"jRemove this unused import 'org.springframework.security.web.authentication.www.BasicAuthenticationFilter'.(чьє╒√    8└ў╗Ес/
+n	java:S116"SRename this field "sign_key" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°╥и58ш№┌╚р/
+А
+java:S1128"cRemove this unused import 'org.springframework.security.oauth2.provider.token.RemoteTokenServices'.(Э╒╦Л8Х╚ВЇр/
+X	java:S125R"<This block of commented-out lines of code should be removed.(┐Т┌ч8ш№┌╚р/

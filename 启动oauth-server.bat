@@ -1,0 +1,1 @@
+java -jar D:\javaworkspace\springcloudoauth2jwt\out\artifacts\oauth_server_jar\oauth-server.jar

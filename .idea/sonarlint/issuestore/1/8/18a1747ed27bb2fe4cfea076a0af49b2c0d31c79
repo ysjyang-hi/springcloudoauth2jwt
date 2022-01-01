@@ -1,0 +1,6 @@
+
+
+java:S1488]"pImmediately return this expression instead of assigning it to the temporary variable "jdbcClientDetailsService".(ºÆÉï8¥ùÎÌà/
+X	java:S125S"<This block of commented-out lines of code should be removed.(øüëÇ8ßé‚Íà/
+o	java:S116'"SRename this field "sign_key" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú® Ì8ÊáşÉà/
+X	java:S125{"<This block of commented-out lines of code should be removed.(¿’Úç8ßé‚Íà/
